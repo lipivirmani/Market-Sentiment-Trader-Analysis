@@ -13,7 +13,7 @@ Due to file size limitations, the datasets are not included in this repository.
 
 Please download them from the following link:
 
-Market_Sentiment_Datasets : [https://drive.google.com/drive/folders/1SbkSVLJOCkeihbhgskrThESu9bB_Ae1T?usp=sharing]
+[Market_Sentiment_Datasets](https://drive.google.com/drive/folders/1SbkSVLJOCkeihbhgskrThESu9bB_Ae1T?usp=sharing)
 
 After downloading, upload the CSV files when running the notebook.
 
